@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.header {
+  list-style: none;
+  display: flex;
+}
+
+nav {
+  list-style: none;
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+  background:#ffffff;
+  border-radius: 20px;
+}
+
+li {
+  color: #000000;
+  padding: 15px;
+  margin: 10px;
+  font-size: 20px;
+  font-family: cursive;
+  border-radius: 5px;
+}
+:link{
+  text-decoration: none;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+  margin-top: -70px;
+  float: right;
+}
